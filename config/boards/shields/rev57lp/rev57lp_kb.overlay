@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "rev57lp_kb.dtsi"
+#include "rev57lp.dtsi"

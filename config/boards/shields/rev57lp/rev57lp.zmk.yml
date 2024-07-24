@@ -9,3 +9,4 @@ features:
   - keys
 siblings:
   - rev57lp_dongle
+  - rev57lp_kb
