@@ -8,5 +8,4 @@ exposes: [i2c_oled]
 features:
   - keys
 siblings:
-  - rev57lp_kb
   - rev57lp_dongle
