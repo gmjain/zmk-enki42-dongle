@@ -7,8 +7,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: rev57lp_left
-  - board: nice_nano_v2
-    shield: rev57lp_right
+    shield: rev57lp_kb
   - board: nice_nano_v2
     shield: rev57lp_dongle
