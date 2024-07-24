@@ -1,0 +1,12 @@
+file_format: "1"
+id: rev57lp
+name: The rev57lp 
+type: shield
+url: https://github.com/benvallack/zmk-config-rev57lp
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - rev57lp_kb
+  - rev57lp_dongle
