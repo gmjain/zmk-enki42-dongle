@@ -1,13 +1,13 @@
 file_format: "1"
-id: enki42
-name: The enki42 
+id: rev57lp
+name: The rev57lp 
 type: shield
-url: https://github.com/benvallack/zmk-config-enki42
+url: https://github.com/benvallack/zmk-config-rev57lp
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
 siblings:
-  - enki42_left
-  - enki42_right
-  - enki42_dongle
+  - rev57lp_left
+  - rev57lp_right
+  - rev57lp_dongle
